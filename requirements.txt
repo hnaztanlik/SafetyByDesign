@@ -7,3 +7,4 @@ matplotlib
 feedparser
 beautifulsoup4
 pydeck
+plotly
